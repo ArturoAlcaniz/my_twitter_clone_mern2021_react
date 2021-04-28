@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my_twitter_clone_mern2021_react/static/css/main.a89a2d60.chunk.css",
-    "main.js": "/my_twitter_clone_mern2021_react/static/js/main.0075296a.chunk.js",
-    "main.js.map": "/my_twitter_clone_mern2021_react/static/js/main.0075296a.chunk.js.map",
-    "runtime-main.js": "/my_twitter_clone_mern2021_react/static/js/runtime-main.3012ea82.js",
-    "runtime-main.js.map": "/my_twitter_clone_mern2021_react/static/js/runtime-main.3012ea82.js.map",
+    "main.css": "/my_twitter_clone_mern2021_react/static/css/main.6fe6db3e.chunk.css",
+    "main.js": "/my_twitter_clone_mern2021_react/static/js/main.84cc54fe.chunk.js",
+    "main.js.map": "/my_twitter_clone_mern2021_react/static/js/main.84cc54fe.chunk.js.map",
+    "runtime-main.js": "/my_twitter_clone_mern2021_react/static/js/runtime-main.77bf9294.js",
+    "runtime-main.js.map": "/my_twitter_clone_mern2021_react/static/js/runtime-main.77bf9294.js.map",
     "static/css/2.ef9168ec.chunk.css": "/my_twitter_clone_mern2021_react/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.87268e38.chunk.js": "/my_twitter_clone_mern2021_react/static/js/2.87268e38.chunk.js",
-    "static/js/2.87268e38.chunk.js.map": "/my_twitter_clone_mern2021_react/static/js/2.87268e38.chunk.js.map",
-    "static/js/3.c2856c4c.chunk.js": "/my_twitter_clone_mern2021_react/static/js/3.c2856c4c.chunk.js",
-    "static/js/3.c2856c4c.chunk.js.map": "/my_twitter_clone_mern2021_react/static/js/3.c2856c4c.chunk.js.map",
+    "static/js/2.ee0792c8.chunk.js": "/my_twitter_clone_mern2021_react/static/js/2.ee0792c8.chunk.js",
+    "static/js/2.ee0792c8.chunk.js.map": "/my_twitter_clone_mern2021_react/static/js/2.ee0792c8.chunk.js.map",
+    "static/js/3.3e5e8c88.chunk.js": "/my_twitter_clone_mern2021_react/static/js/3.3e5e8c88.chunk.js",
+    "static/js/3.3e5e8c88.chunk.js.map": "/my_twitter_clone_mern2021_react/static/js/3.3e5e8c88.chunk.js.map",
     "index.html": "/my_twitter_clone_mern2021_react/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/my_twitter_clone_mern2021_react/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.a89a2d60.chunk.css.map": "/my_twitter_clone_mern2021_react/static/css/main.a89a2d60.chunk.css.map",
-    "static/js/2.87268e38.chunk.js.LICENSE.txt": "/my_twitter_clone_mern2021_react/static/js/2.87268e38.chunk.js.LICENSE.txt",
+    "static/css/main.6fe6db3e.chunk.css.map": "/my_twitter_clone_mern2021_react/static/css/main.6fe6db3e.chunk.css.map",
+    "static/js/2.ee0792c8.chunk.js.LICENSE.txt": "/my_twitter_clone_mern2021_react/static/js/2.ee0792c8.chunk.js.LICENSE.txt",
     "static/media/bird.7a65b904.png": "/my_twitter_clone_mern2021_react/static/media/bird.7a65b904.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3012ea82.js",
+    "static/js/runtime-main.77bf9294.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.87268e38.chunk.js",
-    "static/css/main.a89a2d60.chunk.css",
-    "static/js/main.0075296a.chunk.js"
+    "static/js/2.ee0792c8.chunk.js",
+    "static/css/main.6fe6db3e.chunk.css",
+    "static/js/main.84cc54fe.chunk.js"
   ]
 }
