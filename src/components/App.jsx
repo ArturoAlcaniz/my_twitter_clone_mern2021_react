@@ -12,11 +12,11 @@ export default function App(props){
 
   const responseGoogleSuccess = (googleUser) => {
     var profile = googleUser.getBasicProfile();
-
+    
     sessionStorage.setItem('name', profile.getName());
     sessionStorage.setItem('email', profile.getEmail());
     sessionStorage.setItem('image', profile.getImageUrl());
-
+    
     props.history.push("/home");
   }
 
@@ -51,4 +51,4 @@ export default function App(props){
       </Row>
     </Container>
   );
-} 
+}
